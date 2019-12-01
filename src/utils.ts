@@ -1,0 +1,1 @@
+export const parseInput = (input) => input.split("\n").map(i => Number(i));
